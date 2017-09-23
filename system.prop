@@ -8,3 +8,7 @@ ro.qc.sdk.audio.fluencetype=fluence
 # Display
 debug.hwui.use_buffer_age=false
 ro.sf.lcd_denaity=320
+
+# Device info
+ro.build.product=lux
+ro.product.device=lux
