@@ -658,9 +658,9 @@
 
 	<path name="headset-mic">
 		<path name="AOV" />
-		<ctl name="SLIMTX1 Input 1" value="IN1R" />
-		<ctl name="IN1R Digital Volume" value="142" />
-		<ctl name="IN1R Volume" value="10" />
+		<ctl name="SLIMTX1 Input 1" value="IN3R" />
+		<ctl name="IN3R Digital Volume" value="142" />
+		<ctl name="IN3R Volume" value="10" />
 	</path>
 
 	<path name="sidetone-handset">
@@ -852,9 +852,9 @@
 
 	<path name="voice-tty-full-headset-mic">
 		<path name="AOV" />
-		<ctl name="SLIMTX1 Input 1" value="IN1R" />
-		<ctl name="IN1R Digital Volume" value="128" />
-		<ctl name="IN1R Volume" value="0" />
+		<ctl name="SLIMTX1 Input 1" value="IN3R" />
+		<ctl name="IN3R Digital Volume" value="128" />
+		<ctl name="IN3R Volume" value="0" />
 	</path>
 
 	<path name="voice-tty-hco-headset-mic">
